@@ -16,4 +16,4 @@ Output: 1
 Input: [4,1,2,1,2]
 Output: 4
 ```
-[My solution](https://github.com/yourdpm/30-day-leetcoding-challenge/week1/day1/single_number.cpp)
+[My solution](https://github.com/yourdpm/30-day-leetcoding-challenge/blob/master/week1/day1/single_number.cpp)
